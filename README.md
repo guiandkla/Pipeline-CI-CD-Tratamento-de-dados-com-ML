@@ -1,12 +1,8 @@
 # 📊 Pipeline CI/CD com Tratamento de Dados e Machine Learning
 
-Atividade **Somativa 1 - DevOps** do curso de **Análise e Desenvolvimento de Sistemas - PUCPR/EAD**.
+## 📝 Descrição do Projeto:
 
-## 👨‍🎓 Aluno
-- **Guilherme Andrei Klabunde**
-
-## 📝 Descrição da atividade
-Esta atividade consiste na criação de um **pipeline CI/CD** (Continuous Integration e Continuous Delivery/Deploy), utilizando **Docker** para conteinerização e publicação da imagem no **Docker Hub**.  
+Criação de um **pipeline CI/CD** (Continuous Integration e Continuous Delivery/Deploy) utilizando **Docker** para conteinerização e publicação da imagem no **Docker Hub**, e alertas (monitoramento) via Discord e GitHub Actions. 
 
 O sistema foi desenvolvido para realizar:
 - Tratamento de dados em planilhas Excel.  
@@ -20,6 +16,8 @@ O sistema foi desenvolvido para realizar:
 - Openpyxl  
 - Docker  
 - Git  
+- GitHub Actions
+- Discord
 
 ## 📂 Descrição do Sistema
 Muitas empresas ainda utilizam o **Excel** para o controle de vendas, contratos e outros dados.  
